@@ -1,5 +1,11 @@
 ---
 layout: post
+categories: 
+  - Nhà Đất Cho Thuê
+tags:
+  - batdongsan
+  - luxa
+  
 title: Thuê nhà Đà Nẵng. Tìm Lux A
 ---
 
